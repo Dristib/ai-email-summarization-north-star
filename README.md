@@ -79,11 +79,6 @@ Guardrails ensure optimization of NSM does not compromise **quality or user expe
 - **Scenario planning:** Use metric simulations to forecast NSM growth from improvements in AI accuracy or engagement strategies.
 
 
-## Visual Aids
-- **`diagrams/metrics_flow.png`** → Shows Input Metrics → NSM → Guardrails → Business Impact  
-- **`diagrams/mock_dashboard.png`** → Trend lines for NSM, Active Users, and Summary Accuracy over time  
-
-
 
 ## Why Not Vanity Metrics
 Metrics like total downloads, total AI calls, or raw usage counts inflate activity signals without correlating to **actual user value**.  
