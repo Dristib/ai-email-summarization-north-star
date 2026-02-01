@@ -25,8 +25,3 @@ Ensure NSM optimization does not degrade quality or user experience:
 ## Why Not Vanity Metrics
 Metrics like total downloads, total AI calls, or raw usage counts inflate activity signals without correlating to **actual user value**.  
 > For example, high AI call volume does not guarantee accurate summaries or meaningful productivity gains. Focusing on WASE, input metrics, and guardrails ensures we optimize **outcomes over outputs**.
-
-## Optional Extensions
-- **Flow Diagram:** Input Metrics → NSM → Guardrails → Business Impact  
-- **Scenario Analysis:** Projected NSM growth as a function of increased SAS or AUPS, demonstrating how product levers translate to measurable outcomes.  
-- **Mock Dashboard:** Visualizations of leading indicators and guardrails for executive monitoring.
